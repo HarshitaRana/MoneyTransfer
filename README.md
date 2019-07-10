@@ -43,3 +43,6 @@ Transfer funds between accounts. Use below Json as input:
    "toAccountId":2
 }
 
+### Explanation:
+
+This is a Restful API designed to serve Money Transfer feature. On executing this application, it will start a Jetty server in the background on port 8080. This Jetty server will host the application. You can leverage the features of this API with Endpoints mentioned above.
